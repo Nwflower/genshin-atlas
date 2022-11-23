@@ -2,6 +2,7 @@
 	"role":["角色"],
 	"weapon":["武器"],
 	"artifact":["圣遗物"],
-	"material for role":["角色材料"],
-	"WeekBOSS":["周本"]
+	"material for role":["材料"],
+	"WeekBOSS":["周本"],
+	"food": ["食物"]
 }
