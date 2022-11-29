@@ -1,48 +1,31 @@
 # Genshin-Atlas
+## 这是什么
+这是一个由[`米游社@西北壹枝花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)制作的原神(Genshin Impact)游戏图鉴。
+## 图鉴分类以及画饼
+### 已完成的部分
+1. 武器图鉴（所有条目已更新至3.3，每版本更新）
+2. 角色材料（所有条目已更新至3.3，每版本更新）
+3. 圣遗物图鉴（新增V3.3的圣遗物，其余条目最后更新版本为V3.0，预计V4.0前更新一次）
+4. 七圣召唤卡牌（RGB带水印格式，完成进度80%。CMYK格式不对外开放）
+### 正在做的部分
+1. 周本图鉴（目前仅正机之神、雷神，开发进度11.4514%，预计2023春节前完成）
+2. 食物图鉴（已设计模板）
+3. 角色图鉴（已设计模板）
+### 可能会做的部分
+1. 采集物图鉴
+2. 食材图鉴
+3. 小道具图鉴
+4. 鱼类图鉴
+## 特别鸣谢
+| 项目  | 发电量    |
+|-----|--------|
+|[惜月](https://github.com/CMHopeSunshine)| 圣遗物图鉴绘制 |
+|herta| 协助绘制食物图鉴 |
 
-#### 这是什么
-这是一个由`米游社@西北壹枝花`制作的原神(Genshin Impact)游戏图鉴，内含各种各样有关于原神的图鉴。
-
-### 图鉴分类以及画饼
-#### 已完成的部分
-
-■ 武器图鉴（所有条目已更新至3.3，每版本更新）
-
-■ 角色材料（所有条目已更新至3.3，每版本更新）
-
-■ 圣遗物图鉴（新增V3.3的圣遗物，其余条目最后更新版本为V3.0，预计V4.0前更新一次）
-
-#### 正在做的部分
-
-□ 周本图鉴（目前仅正机之神，开发进度11.4514%，预计2023春节前完成）
-
-□ 食物图鉴（已设计模板，示例图片为`甜甜花酿鸡`。其余食物由herta协助填数据）
-
-□ 角色图鉴（已设计模板，目前正由`惜月`完善并渲染其余角色，开发进度11.4514%）
-
-□ 七圣召唤卡牌图鉴（已设计模板，预计2023春节前完成）
-
-#### 可能会做的部分
-
-□ 采集物图鉴
-
-□ 食材图鉴
-
-□ 小道具图鉴
-
-□ 鱼类图鉴
-
-#### 特别鸣谢
-
-[惜月](https://github.com/CMHopeSunshine) - 圣遗物图鉴绘制
-
-
-#### [交流群](https://qm.qq.com/cgi-bin/qm/qr?k=XOTZhBWpv68F1sfsMIzKJpg28NBPKJgg&jump_from=webapi&authKey=/XagQoLiUhOi+t67MCkWOSRLlXe+ywVmrkCHdoD3CjwqNzAUYspTrqYklkwb3W0R)
+## [交流群](https://qm.qq.com/cgi-bin/qm/qr?k=XOTZhBWpv68F1sfsMIzKJpg28NBPKJgg&jump_from=webapi&authKey=/XagQoLiUhOi+t67MCkWOSRLlXe+ywVmrkCHdoD3CjwqNzAUYspTrqYklkwb3W0R)
 
 如果你支持本项目，可以来[爱发电](https://afdian.net/a/Nwflower)自愿捐赠。捐赠不会获得额外内容，但会提高本项目的更新积极性。
-
-#### 发电榜
-
+### 发电榜
 | 名单| 发电量 |
 |---------|------|
 | 杨花洛尽 | 23.3 |
@@ -51,7 +34,9 @@
 | 薛皮皮| 5 |
 
 
-#### 如何获取
+## 如何获取
+
+### 仅获取图片
 使用github
 ```
 git clone --depth=1 https://github.com/Nwflower/genshin-atlas.git
@@ -60,6 +45,12 @@ git clone --depth=1 https://github.com/Nwflower/genshin-atlas.git
 ```
 git clone --depth=1 https://gitee.com/Nwflower/genshin-atlas.git
 ```
+### 安装群机器人查询
+| 链接                                                    | 使用协议       |
+|-------------------------------------------------------|------------|
+| [小派蒙](https://github.com/CMHopeSunshine/LittlePaimon) | nonebot    |
+| [Atlas](https://github.com/Nwflower/atlas)        | Yunzai-Bot |
 
-#### 版权提示
+
+## 版权提示
 本图鉴目前仅供学习交流使用，素材版权为米哈游所有，您不得以任何方式转载、二改侵犯原作者权益，否则，我将立即停止所有图鉴制作并关闭图鉴的开源状态，不再提供更新支持。
