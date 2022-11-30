@@ -45,12 +45,16 @@ git clone --depth=1 https://github.com/Nwflower/genshin-atlas.git
 ```
 git clone --depth=1 https://gitee.com/Nwflower/genshin-atlas.git
 ```
-### 安装群机器人查询
-| 链接                                                    | 使用协议       |
-|-------------------------------------------------------|------------|
-| [小派蒙](https://github.com/CMHopeSunshine/LittlePaimon) | nonebot    |
-| [Atlas](https://github.com/Nwflower/atlas)        | Yunzai-Bot |
+### 接入群机器人
+
+如有可能，您可以把本仓库用于你的项目中。
+以下为使用了本仓库的项目名单：
+
+| Project | Super.botName |
+|------|----------|
+| [示例项目 - 小派蒙](https://github.com/CMHopeSunshine/LittlePaimon) | Nonebot2 |
+| [示例项目 - Atlas](https://github.com/Nwflower/atlas)        | Yunzai-Bot |
 
 
-## 版权提示
-本图鉴目前仅供学习交流使用，素材版权为米哈游所有，您不得以任何方式转载、二改侵犯原作者权益，否则，我将立即停止所有图鉴制作并关闭图鉴的开源状态，不再提供更新支持。
+## 知识产权提示
+本图鉴目前仅供学习交流使用，素材版权为米哈游所有。您不应 以搬运、分享、二改的形式或名义 转载或发表 到自媒体、云储存等平台 侵犯原作者权益，否则，我将立即停止所有图鉴制作并关闭图鉴的开源状态，不再提供更新支持。
