@@ -619,6 +619,9 @@
     "菲谢尔": "/material for role/菲谢尔.png",
     "多莉": "/material for role/多莉.png"
   },
+  "material": {
+    "周本": "/material/周本.png"
+  },
   "card": {
     "诺艾尔": "/card/角色/诺艾尔.png",
     "行秋": "/card/角色/行秋.png",
