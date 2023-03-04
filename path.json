@@ -636,6 +636,9 @@
     "沙脂蛹": "/specialty/沙脂蛹.png",
     "帕蒂沙兰": "/specialty/帕蒂沙兰.png"
   },
+  "form": {
+    "圣遗物表": "/form/圣遗物表.png"
+  },
   "material for role": {
     "妮露": "/material for role/妮露.png",
     "辛焱": "/material for role/辛焱.png",
