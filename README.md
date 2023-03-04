@@ -6,15 +6,16 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 ## 目录结构
 - [x] 武器图鉴（更新至3.6）
 - [x] 角色材料（更新至3.6）
-- [x] 七圣召唤卡牌（更新至3.4）
-- [x] 区域特产（更新至3.4）
+- [x] 七圣召唤卡牌（更新至3.5）
+- [x] 区域特产（更新至3.5）
 - [x] 圣遗物图鉴（更新至3.6）
-- [x] 原魔图鉴（更新至3.4，预计4.3前翻新。由[Csxylic](https://www.miyoushe.com/ys/accountCenter/postList?id=258229537)提供支持）
-- [x] 食物图鉴（更新至3.4）
+- [x] 原魔图鉴（更新至3.5，暂由[Csxylic](https://www.miyoushe.com/ys/accountCenter/postList?id=258229537)提供支持。预计于4.3前翻新）
+- [x] 食物图鉴（更新至3.5）
 
 ## TODO
 
 - [ ] 普通材料 图鉴
+- [ ] 副本掉落 图鉴
 
 注意：请使用根目录下的path.json来获取准确的完整目录。
 
