@@ -424,7 +424,9 @@
     "清炒虾仁": "/food/清炒虾仁.png"
   },
   "material": {
-    "BOSS": "/material/BOSS.png",
+    "BOSS材料": "/material/BOSS材料.png",
+    "武器材料": "/material/武器材料.png",
+    "天赋": "/material/天赋.png",
     "周本": "/material/周本.png"
   },
   "effect": {
