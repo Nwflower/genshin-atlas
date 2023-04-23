@@ -7,7 +7,7 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 - [x] 武器图鉴（更新至3.7）
 - [x] 角色材料（更新至3.7）
 - [x] 七圣召唤卡牌（更新至3.6）
-- [x] 区域特产（更新至3.5）
+- [x] 区域特产（更新至3.6）
 - [x] 圣遗物图鉴（更新至3.6）
 - [x] 原魔图鉴（更新至3.6，暂由[Csxylic](https://www.miyoushe.com/ys/accountCenter/postList?id=258229537)提供支持。）
 - [x] 食物图鉴（更新至3.6）
