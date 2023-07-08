@@ -5,16 +5,15 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 - [x] 武器图鉴（更新至3.8）
 - [x] 角色材料（更新至3.8）
 - [x] 七圣召唤卡牌（更新至3.6）
-- [x] 区域特产（更新至3.6）
+- [x] 区域特产（更新至3.8）
 - [x] 圣遗物图鉴（更新至3.8）
 - [x] 原魔图鉴（更新至3.6，暂由[Csxylic](https://www.miyoushe.com/ys/accountCenter/postList?id=258229537)提供支持。）
-- [x] 食物图鉴（更新至3.7）
+- [x] 食物图鉴（更新至3.8）
 - [x] 卡池图鉴（更新至3.7）
 
 ## TODO
 
 - [ ] 普通材料 图鉴
-- [ ] 副本掉落 图鉴
 
 注意：请使用根目录下的path.json来获取准确的完整目录。
 
@@ -35,16 +34,6 @@ Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com
 **点击加入[Genshin - Atlas交流群](https://qm.qq.com/cgi-bin/qm/qr?k=XOTZhBWpv68F1sfsMIzKJpg28NBPKJgg&jump_from=webapi&authKey=/XagQoLiUhOi+t67MCkWOSRLlXe+ywVmrkCHdoD3CjwqNzAUYspTrqYklkwb3W0R)**。
 
 如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
-
-### 12月发电榜
-| NickName                         |
-| :------------------------------- |
-| 惜月                             |
-| 溯流光                           |
-| 小叶                             |
-| 好名字可以让你的朋友更容易记住你 |
-| 长楠                             |
-| 寮青                             |
 
 ## 如何获取
 
