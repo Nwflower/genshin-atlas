@@ -902,6 +902,7 @@
     "圣遗物表": "/form/圣遗物表.png"
   },
   "specialty": {
+    "虹彩蔷薇": "/specialty/虹彩蔷薇.png",
     "圣金虫": "/specialty/圣金虫.png",
     "小灯草": "/specialty/小灯草.png",
     "珊瑚真珠": "/specialty/珊瑚真珠.png",
@@ -935,7 +936,8 @@
     "蒲公英籽": "/specialty/蒲公英籽.png",
     "石珀": "/specialty/石珀.png",
     "霓裳花": "/specialty/霓裳花.png",
-    "清心": "/specialty/清心.png"
+    "清心": "/specialty/清心.png",
+    "柔灯铃": "/specialty/柔灯铃.png"
   },
   "up": {
     "2.0": "/up/2.0.png",
