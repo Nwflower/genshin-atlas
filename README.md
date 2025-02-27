@@ -1,5 +1,7 @@
 # Genshin-Atlas
-Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的原神(Genshin Impact)游戏图鉴。
+Genshin-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)制作的原神(Genshin Impact)游戏图鉴。
+
+目前部分图片由@玖喵（QQ：2014340648）在维护，感谢各位共创者的大力支持。
 
 ## 目录结构
 - [x] 武器图鉴（更新至4.8）
