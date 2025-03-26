@@ -1,4 +1,14 @@
 {
+    "othername": {
+        "artifact": "/othername/artifact.yaml",
+        "specialty": "/othername/specialty.yaml",
+        "enemy": "/othername/enemy.yaml",
+        "card": "/othername/card.yaml",
+        "effect": "/othername/effect.yaml",
+        "food": "/othername/food.yaml",
+        "material": "/othername/material.yaml",
+        "weapon": "/othername/weapon.yaml"
+    },
     "form": {
         "圣遗物表": "/form/圣遗物表.png"
     },
@@ -880,6 +890,7 @@
         "试作金珀": "/weapon/法器/试作金珀.png",
         "祭星者之望": "/weapon/法器/祭星者之望.png",
         "翡玉法球": "/weapon/法器/翡玉法球.png",
+        "溢彩心念": "/weapon/法器/溢彩心念.png",
         "天空之卷": "/weapon/法器/天空之卷.png",
         "忍冬之果": "/weapon/法器/忍冬之果.png",
         "不灭月华": "/weapon/法器/不灭月华.png",
@@ -939,6 +950,7 @@
     },
     "artifact": {
         "赌徒": "/artifact/赌徒.png",
+        "长夜之誓": "/artifact/长夜之誓.png",
         "未竟的遐思": "/artifact/未竟的遐思.png",
         "海染砗磲": "/artifact/海染砗磲.png",
         "被怜爱的少女": "/artifact/被怜爱的少女.png",
@@ -990,7 +1002,8 @@
         "水仙之梦": "/artifact/水仙之梦.png",
         "辰砂往生录": "/artifact/辰砂往生录.png",
         "饰金之梦": "/artifact/饰金之梦.png",
-        "炽烈的炎之魔女": "/artifact/炽烈的炎之魔女.png"
+        "炽烈的炎之魔女": "/artifact/炽烈的炎之魔女.png",
+        "深廊终曲": "/artifact/深廊终曲.png"
     },
     "material for role": {
         "五郎": "/material for role/五郎.png",
@@ -1016,6 +1029,7 @@
         "琴": "/material for role/琴.png",
         "米卡": "/material for role/米卡.png",
         "千织": "/material for role/千织.png",
+        "伊安珊": "/material for role/伊安珊.png",
         "莱欧斯利": "/material for role/莱欧斯利.png",
         "丽莎": "/material for role/丽莎.png",
         "诺艾尔": "/material for role/诺艾尔.png",
@@ -1045,6 +1059,7 @@
         "夏洛蒂": "/material for role/夏洛蒂.png",
         "迪奥娜": "/material for role/迪奥娜.png",
         "可莉": "/material for role/可莉.png",
+        "瓦雷莎": "/material for role/瓦雷莎.png",
         "雷电将军": "/material for role/雷电将军.png",
         "九条裟罗": "/material for role/九条裟罗.png",
         "卡维": "/material for role/卡维.png",
