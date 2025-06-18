@@ -1,18 +1,23 @@
 作者1   丢小鹅   https://www.miyoushe.com/ys/accountCenter/postList?id=315095137
 
-周本图链接  https://upload-bbs.miyoushe.com/upload/2025/04/02/315095137/93e858a69cbbe5282d8623db4a57307e_1110647224337456785.jpg
+周本图链接  https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/18743b550223e6bf9539c5e3ac4bdc4f_7063067347060735517.jpg
+【下载】根目录执行，有TRSS-plugin在前面加 rcp   
+curl -o "./plugins/Atlas/Genshin-Atlas/material/周本.png"  "https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/18743b550223e6bf9539c5e3ac4bdc4f_7063067347060735517.jpg"
+示例：rcp curl -o "./plugins/Atlas/Genshin-Atlas/material/周本.png"  "https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/18743b550223e6bf9539c5e3ac4bdc4f_7063067347060735517.jpg"
 
-BOSS图链接  https://upload-bbs.miyoushe.com/upload/2025/04/02/315095137/732122559098d75df2519bbdaac44afb_3835245436242765098.jpg
+BOSS图链接  https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/cfdeb46dead046f0bc851ed6b41397e0_6970874985165137612.jpg
+【下载】根目录执行，有TRSS-plugin在前面加 rcp   
+curl -o "./plugins/Atlas/Genshin-Atlas/material/BOSS材料.png"  "https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/cfdeb46dead046f0bc851ed6b41397e0_6970874985165137612.jpg"
 
-天赋图链接  https://upload-bbs.miyoushe.com/upload/2025/04/02/315095137/dd014ec7443ccb49336dfa2578f30914_7002881863429810435.jpg
+天赋图链接  https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/f5b26e8ad5f3a8cc580c082de592b50a_4984645104718329065.jpg
+【下载】根目录执行，有TRSS-plugin在前面加 rcp   
+curl -o "./plugins/Atlas/Genshin-Atlas/material/天赋.png"  "https://upload-bbs.miyoushe.com/upload/2025/05/29/315095137/f5b26e8ad5f3a8cc580c082de592b50a_4984645104718329065.jpg"
 
 作者2  关蝎   https://www.miyoushe.com/ys/accountCenter/postList?id=82386584
 
-武器图链接  
-
-图1：https://upload-bbs.miyoushe.com/upload/2025/04/10/82386584/bb895351a7fdd28e3f27d6e820c9809a_8650794191917247575.jpg
-图2：https://upload-bbs.miyoushe.com/upload/2025/04/10/82386584/098fca9891ff4ae41aed39eafb2cf467_509057678788860289.jpg
-图3：https://upload-bbs.miyoushe.com/upload/2025/04/10/82386584/e5d2a2be0c58baa00a8f0afbdc4c1023_6810371568806496664.jpg
+武器图链接  https://upload-bbs.miyoushe.com/upload/2025/05/19/82386584/eff1d8d48f075f4343c3c104a6871912_3601603220133074963.jpg
+【下载】根目录执行，有TRSS-plugin在前面加 rcp   
+curl -o "./plugins/Atlas/Genshin-Atlas/material/武器材料.png"  "https://upload-bbs.miyoushe.com/upload/2025/05/19/82386584/eff1d8d48f075f4343c3c104a6871912_3601603220133074963.jpg"
 
 周本图链接  
 
@@ -25,6 +30,6 @@ BOSS图链接  https://upload-bbs.miyoushe.com/upload/2025/04/02/315095137/73212
 样式2：https://upload-bbs.miyoushe.com/upload/2025/04/03/82386584/5baba454fa663d00e46a7ed5ee22934a_3845635161811060388.jpg
 
 
-作者3  HoYo青枫   https://www.miyoushe.com/ys/accountCenter/collectionList?id=285802042
+作者3  HoYo青枫   https://www.miyoushe.com/ys/accountCenter/postList?id=285802042
 
 文章链接：https://www.miyoushe.com/ys/article/63285196
